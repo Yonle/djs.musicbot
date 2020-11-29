@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord-player": "^3.0.3",
+    "discord.js": "^12.5.1",
+    "opusscript": "0.0.7",
+    "taichi.db": "^1.2.3"
+  },
+  "description": "A simple discord.js Musicbot package.",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "djs.musicbot",
+  "version": "1.2.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yonle/djs.musicbot.git"
+  },
+  "files": "*",
+  "author": "Yonle"
+}
